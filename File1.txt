@@ -1,1 +1,2 @@
 Testing how to resolve merge confict - branch 2
+
