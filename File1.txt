@@ -1,1 +1,1 @@
-Testing how to resolve merge confict
+Testing how to resolve merge confict - branch 2
